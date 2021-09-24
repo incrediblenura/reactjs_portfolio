@@ -1,0 +1,12 @@
+#main_div{
+    margin-top: 10%;
+    font-family: 'Nura', sans-serif;
+    /* float: left; */
+}
+#ul_List{
+    margin-top: 0%;
+    /* color: black; */
+}
+li{
+    text-align: left;
+}
